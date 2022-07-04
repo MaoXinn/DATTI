@@ -9,7 +9,7 @@
 * triples_1: relation triples encoded by ids in source KG;
 * triples_2: relation triples encoded by ids in target KG;
 
-* The datasets and pre-trained embeddings could be downloaded from Releases https://github.com/MaoXinn/DATTI/releases
+* The datasets and pre-trained embeddings could be downloaded from https://github.com/MaoXinn/DATTI/releases
 
 ## Environment
 
