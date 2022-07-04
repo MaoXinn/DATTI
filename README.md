@@ -10,7 +10,7 @@
 * triples_2: relation triples encoded by ids in target KG;
 
 ## Entity and Relation embeddings
-Due to the size limitation of zip files, we can only upload part of pre-aligned entity and relation embeddings of three baselines.
+The pre-trained Embeddings are stored in /Embeddings
 
 ## Environment
 
