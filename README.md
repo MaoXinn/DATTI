@@ -9,8 +9,7 @@
 * triples_1: relation triples encoded by ids in source KG;
 * triples_2: relation triples encoded by ids in target KG;
 
-## Entity and Relation embeddings
-The pre-trained Embeddings are stored in /Embeddings
+* The datasets and pre-trained embeddings could be downloaded from Releases https://github.com/MaoXinn/DATTI/releases
 
 ## Environment
 
@@ -22,5 +21,6 @@ The pre-trained Embeddings are stored in /Embeddings
 * Scipy
 * Numpy
 * tqdm
+
 
 ## Just run Tensor_decoder.ipynb block by block.
