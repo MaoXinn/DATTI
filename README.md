@@ -1,3 +1,5 @@
+# The code of DATTI: "An Effective and Efficient Entity Alignment Decoding Algorithm via Third-Order Tensor Isomorphism" https://aclanthology.org/2022.acl-long.405/
+
 ## Datasets
 
 * ent_ids_1: ids for entities in source KG;
